@@ -4,7 +4,8 @@
 - If you want to try this make sure launch it with VScode's Live server extension, it won't work if you directly try to open the "index.html" file.
 - If you face the issue of screen size just adjust you screen to 100% on your browser.
 
-  ![Screenshot 2024-08-06 123635](https://github.com/user-attachments/assets/788380ec-5436-46da-9dab-123a18a031f8)
+![Screenshot 2024-08-06 123635](https://github.com/user-attachments/assets/6c994b0e-789e-465d-9263-e3bced72bc07)
 
 
-![Screenshot 2024-08-06 123700](https://github.com/user-attachments/assets/5a2fb161-d0f8-45b1-8945-8d34fa72d6e0)
+
+![Screenshot 2024-08-06 123700](https://github.com/user-attachments/assets/787991d7-1794-4993-b5f0-ca57fe227d9a)
